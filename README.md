@@ -1,16 +1,46 @@
-## Hi there 👋
+# Seja bem-vindo(a)!👋🏼
+**`Desenvolvedor Front-End`**
+### -📚Técnico em Desenvolvimento de Sistemas
+### -📖Graduando em Ciências da Computação
 
-<!--
-**PedruGit/pedrugit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Pedro Augusto Santos, tenho 19 anos e sou de Belo Horizonte/MG. Estou em busca de aprender mais e ingressar na área da tecnologia para me tornar futuramente um Desenvolvedor FullStack. Tenho conhecimento nível avançado em Lógica de Programação, nas linguagens HTML e CSS e no uso das ferramentas Git e Github. **Atualmente, estou focando em aumentar meu conhecimento nas linguagens de programação Java e JavaScript.** Gosto de me desafiar e buscar cada vez mais experiências nas áreas de tecnologia e em minha vida.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗Links
+<a href="https://www.linkedin.com/in/pedro-augusto-santos/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" 
+  alt="linkedin" 
+  title="Linkedln"
+  width="10%"/>
+</a>
+</div>
+
+#
+
+### 🤖Linguagens e Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+alt="html" 
+title="HTML"
+width="10%" 
+align="left"
+style="padding-right: 2%;"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+alt="css"
+title="CSS"
+width="10%"
+align="left"
+style="padding-right: 2%;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+alt="git"
+title="Git"
+width="10%"
+align="left"
+style="padding-right: 2%;"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+alt="github"
+title="GitHub"
+width="10%"/>
