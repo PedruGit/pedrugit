@@ -3,7 +3,7 @@
 ### -📚Técnico em Desenvolvimento de Sistemas
 ### -📖Graduando em Ciências da Computação
 
-Me chamo Pedro Augusto Santos, tenho 19 anos e sou de Belo Horizonte/MG. Estou em busca de aprender mais e ingressar na área da tecnologia para me tornar futuramente um Desenvolvedor FullStack. Tenho conhecimento nível avançado em Lógica de Programação, nas linguagens HTML e CSS e no uso das ferramentas Git e Github. **Atualmente, estou focando em aumentar meu conhecimento nas linguagens de programação Java e JavaScript.** Gosto de me desafiar e buscar cada vez mais experiências nas áreas de tecnologia e em minha vida.
+Me chamo Pedro Augusto Santos, tenho 19 anos e sou de Belo Horizonte/MG. Estou em busca de aprender mais e ingressar na área da tecnologia para me tornar futuramente um Desenvolvedor FullStack. Tenho conhecimento nível avançado em Lógica de Programação, nas linguagens HTML e CSS e no uso das ferramentas Git e Github. **Atualmente, estou focando em aumentar meu conhecimento nas linguagens de programação Java, JavaScript e MySQL.** Gosto de me desafiar e buscar cada vez mais experiências nas áreas de tecnologia e em minha vida.
 
 <div align="center">
 
