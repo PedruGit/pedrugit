@@ -18,29 +18,29 @@ Me chamo Pedro Augusto Santos, tenho 19 anos e sou de Belo Horizonte/MG. Estou e
 
 #
 
+<div align="center"> 
+
 ### 🤖Linguagens e Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 alt="html" 
 title="HTML"
-width="10%" 
-align="left"
+width="10%"
 style="padding-right: 2%;"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 alt="css"
 title="CSS"
 width="10%"
-align="left"
 style="padding-right: 2%;">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 alt="git"
 title="Git"
 width="10%"
-align="left"
 style="padding-right: 2%;"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 alt="github"
 title="GitHub"
 width="10%"/>
+</div>
