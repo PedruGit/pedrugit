@@ -1,46 +1,52 @@
-# Seja bem-vindo(a)!👋🏼
+<h1 align="center">
+  Seja bem-vindo(a)!👋🏼
+</h1>
+
 **`Desenvolvedor Front-End`**
 ### -📚Técnico em Desenvolvimento de Sistemas
 ### -📖Graduando em Ciências da Computação
 
-Me chamo Pedro Augusto Santos, tenho 19 anos e sou de Belo Horizonte/MG. Estou em busca de aprender mais e ingressar na área da tecnologia para me tornar futuramente um Desenvolvedor FullStack. Tenho conhecimento nível avançado em Lógica de Programação, nas linguagens HTML e CSS e no uso das ferramentas Git e Github. **Atualmente, estou focando em aumentar meu conhecimento nas linguagens de programação Java, JavaScript e MySQL.** Gosto de me desafiar e buscar cada vez mais experiências nas áreas de tecnologia e em minha vida.
+Me chamo Pedro Augusto Santos, tenho 19 anos e sou de Belo Horizonte/MG. Sou Técnico em Desenvolvimento de Sistemas, **com foco em HTML e CSS, além de conhecimentos sólidos em JavaScript e SQL. Atualmente, me dedico ao aprendizado em Node.js, buscando construir uma base sólida e versátil para me tornar um Desenvolvedor Full-Stack.**
+
+---
+
+### 🤖 Linguagens e Ferramentas
+
+### 💻 Linguagens de Programação
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Ferramentas e Versionamento
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+---
+
+### 📊 Estatísticas
 
 <div align="center">
-
-### 🔗Links
-<a href="https://www.linkedin.com/in/pedro-augusto-santos/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" 
-  alt="linkedin" 
-  title="Linkedln"
-  width="10%"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedruGit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedruGit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-#
+---
 
-<div align="center"> 
+### 🤝 Contato
+**Link perfil Linkedln:** `https://www.linkedin.com/in/pedro-augusto-santos/`
 
-### 🤖Linguagens e Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-alt="html" 
-title="HTML"
-width="10%"
-style="padding-right: 2%;"/>
+**E-mail para contato:** `pedroaugustosantos2204@gmail.com`
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-alt="css"
-title="CSS"
-width="10%"
-style="padding-right: 2%;">
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-alt="git"
-title="Git"
-width="10%"
-style="padding-right: 2%;"/>
+<p align="center">
+  <img src="https://media.tenor.com/wuyEcsxrvQwAAAAM/club-penguin-ghosthy.gif" alt=justdance style"width="150" />
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-alt="github"
-title="GitHub"
-width="10%"/>
-</div>
+<h3 align="center">
+  Obrigado pela visita! Volte sempre!
+</h3>
