@@ -29,15 +29,11 @@ Me chamo Pedro Augusto Santos, tenho 19 anos e sou de Belo Horizonte/MG. Sou Té
 
 ### 📊 Estatísticas
 
-<img
-  height="180em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedruGit&show_icons=true&theme=dracula"
-/>
-
-<img
-  height="180em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedruGit&layout=compact&theme=dracula"
-/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedruGit&show_icons=true&theme=dracula"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedruGit&layout=compact&theme=dracula"/>
+</p>
 
 ---
 
