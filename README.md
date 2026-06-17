@@ -6,7 +6,7 @@
 ### -📚Técnico em Desenvolvimento de Sistemas
 ### -📖Graduando em Ciências da Computação
 
-Me chamo Pedro Augusto Santos, tenho 19 anos e sou de Belo Horizonte/MG. Sou Técnico em Desenvolvimento de Sistemas, **com foco em HTML e CSS, além de conhecimentos sólidos em JavaScript e SQL. Atualmente, me dedico ao aprendizado em Node.js, buscando construir uma base sólida e versátil para me tornar um Desenvolvedor Full-Stack.**
+Técnico em Desenvolvimento de Sistemas e graduando em **Ciência da Computação**, com domínio prático em **HTML5, CSS3** e controle de versão com **Git e GitHub**. Possuo sólidos conhecimentos em **Java e JavaScript**, além de **Inglês técnico** em leitura de documentações.
 
 ---
 
@@ -16,14 +16,13 @@ Me chamo Pedro Augusto Santos, tenho 19 anos e sou de Belo Horizonte/MG. Sou Té
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-### 🌐 Ferramentas e Versionamento
+### 🌐 Ferramentas & Controle de Versão
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
@@ -41,6 +40,8 @@ Me chamo Pedro Augusto Santos, tenho 19 anos e sou de Belo Horizonte/MG. Sou Té
 **Link perfil Linkedln:** `https://www.linkedin.com/in/pedro-augusto-santos/`
 
 **E-mail para contato:** `pedroaugustosantos2204@gmail.com`
+
+**Número de telefone:** `(31) 98325-0304`
 
 ---
 
